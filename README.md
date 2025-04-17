@@ -8,7 +8,7 @@ An E-commerce web application built with the MERN stack (MongoDB, Express.js, Re
  
 > Example:  
 > ![Home Page](/frontend/public/home.png)  
-> ![Product Page](./screenshots/product.png)
+> ![Product Page](/frontend/public/product.png)
 
 ---
 
