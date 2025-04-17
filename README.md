@@ -14,7 +14,7 @@ An E-commerce web application built with the MERN stack (MongoDB, Express.js, Re
 
 ## 🚀 Live Demo
 
-👉 [View Deployed Site](https://your-app-url.com)
+👉 [View Deployed Site](https://foreverbuy.in)
 
 ---
 
